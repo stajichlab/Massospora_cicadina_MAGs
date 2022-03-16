@@ -1,0 +1,1 @@
+Massospora_cicadina_MAGs
