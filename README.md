@@ -4,7 +4,9 @@
 
 ### To cite this work or code
 
-<i>coming soon</i>
+Cassie Ettinger, & Jason Stajich. (2022). stajichlab/Massospora_cicadina_MAGs: v.1 (v.1). Zenodo. https://doi.org/10.5281/zenodo.6455718
+
+<i> Manuscript coming soon </i>
 
 ### Abstract
 
