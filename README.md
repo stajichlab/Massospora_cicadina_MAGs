@@ -6,7 +6,7 @@
 
 Cassie Ettinger, & Jason Stajich. (2022). stajichlab/Massospora_cicadina_MAGs: v.1 (v.1). Zenodo. https://doi.org/10.5281/zenodo.6455718
 
-<i> Manuscript coming soon </i>
+Ettinger CL, Lovett BR, Kasson MT & Stajich JE. 2022. Metagenome-assembled Genomes of Bacteria associated with Massospora cicadina Fungal Plugs from Infected Brood VIII Periodical Cicadas. Microbial Resource Announcements. DOI: [10.1128/mra.00413-22](https://journals.asm.org/doi/10.1128/mra.00413-22)
 
 ### Abstract
 
